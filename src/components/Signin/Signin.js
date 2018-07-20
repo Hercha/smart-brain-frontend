@@ -1,8 +1,7 @@
 import React from 'react'
 
 class Signin extends React.Component {
-
-    constructor(props) {
+  constructor(props) {
         super(props);
         this.state = {
             signInEmail: '',
